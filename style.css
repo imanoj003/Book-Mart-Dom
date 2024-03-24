@@ -1,39 +1,46 @@
-*{
+* {
     margin: 0;
     padding: 0;
 
 }
-body{
-  font-family: "Poppins", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+
 
 }
-.navbar{
+
+.navbar {
     background-color: greenyellow;
     padding: 10px;
-    
+
 }
-.container
-{
+
+.container {
     padding: 10px;
 }
-.book-conatiner
-{
+
+.book-conatiner {
     width: 25%;
-    padding:15px;
+    padding: 15px;
     background-color: black;
     border-radius: 10px;
     color: white;
     margin: 30px;
     display: inline-block;
+    vertical-align: top;
+    flex-wrap: wrap;
+
 }
-.book-conatiner h2
-{
+
+.book-conatiner h2 {
     color: greenyellow;
 }
-.book-conatiner button
-{
+
+.book-conatiner button {
     background-color: greenyellow;
     color: black;
     border-radius: 10px;
@@ -42,11 +49,11 @@ body{
     margin-top: 5px;
     border: none;
 }
-.add-button
-{
+
+.add-button {
     background-color: greenyellow;
     color: black;
-    border-radius: 100%; 
+    border-radius: 100%;
     font-size: 50px;
     height: 70px;
     width: 70px;
@@ -55,71 +62,70 @@ body{
     bottom: 30px;
     right: 30px;
 }
-.popup-overlay
-{
+
+.popup-overlay {
     position: absolute;
     background-color: black;
     height: 100%;
     width: 100%;
     top: 0;
-    left:0;
+    left: 0;
     opacity: 0.8;
     display: none;
 }
 
-.popup-box
-{
+.popup-box {
     background-color: greenyellow;
     width: 25%;
-    padding:40px;
+    padding: 40px;
     border-radius: 10px;
     position: absolute;
     top: 25%;
     left: 35%;
     display: none;
     z-index: 2;
-    
+
 
 }
-.popup-box h2
-{
+
+.popup-box h2 {
     margin-left: 23%;
     margin-bottom: 10px;
 }
-.popup-box input
-{
+
+.popup-box input {
     background: transparent;
     border: none;
     width: 100%;
-    margin:5px;
+    margin: 5px;
     padding: 5px;
     font-size: 20px;
     border-bottom: solid black 2px;
 
 
 }
-.popup-box textarea
-{
+
+.popup-box textarea {
     background: transparent;
     width: 100%;
-    margin:5px;
+    margin: 5px;
     padding: 5px;
     font-size: 20px;
     border: solid black 2px;
 
 
 }
-.popup-box button
-{
+
+.popup-box button {
     background-color: black;
     color: white;
     padding: 10px;
     margin: 5px;
     border: none;
     border-radius: 5px;
-    
+
 }
-.popup-box input:focus
-{
-     outline: none;
+
+.popup-box input:focus {
+    outline: none;
 }
