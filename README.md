@@ -37,19 +37,3 @@ To run this project locally, follow these steps:
 2. Open the project directory in your preferred code editor.
 3. Run the `index.html` file in a web browser.
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-- [Contributor 2](https://github.com/contributor2)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-Special thanks to [OpenAI](https://openai.com) for their guidance and support.
-
----
-
-Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. Happy reading! 📚🌟
