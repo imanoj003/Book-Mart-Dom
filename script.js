@@ -40,7 +40,7 @@ addbook.addEventListener("click", function (event) {
                       <button onclick = "deleteitem(event)">Delete</button>`
     container.append(div)
     popup_overlay.style.display = "none"
-    popup_box.style.display = "none"
+    popup_box.style.display = "none" 
 
 })
 

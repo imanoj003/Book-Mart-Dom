@@ -61,6 +61,7 @@ body {
     position: fixed;
     bottom: 30px;
     right: 30px;
+    z-index: 0;
 }
 
 .popup-overlay {
@@ -72,6 +73,7 @@ body {
     left: 0;
     opacity: 0.8;
     display: none;
+    z-index: 1;
 }
 
 .popup-box {

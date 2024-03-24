@@ -1,0 +1,21 @@
+->Setting up the project
+
+->importing the font details
+
+->creating the navbar
+
+->adding the book section
+
+->adding the button to add booksection
+
+->creating a popup 
+      1) popup div
+      2) overlay div
+
+->adding functionality to the cancel button 
+
+->adding functionality to the add button
+
+->adding functionality to the Delete button 
+
+ 
